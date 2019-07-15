@@ -1,0 +1,123 @@
+{
+  "BTTPresetName" : "Counter-Strike HUD",
+  "BTTPresetColor" : "255.000000, 162.187032, 2.027855, 255.000000",
+  "BTTPresetUUID" : "6E9E0703-0B93-4B7E-A489-143F7AF25321",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+        {
+          "BTTWidgetName" : "Armor",
+          "BTTTriggerType" : 639,
+          "BTTTriggerTypeDescription" : "Apple Script Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled2" : 1,
+          "BTTUUID" : "EEBE8C08-DCA1-4CC0-9FD7-BB882F1C61BB",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 1,
+          "BTTDisplayOrder" : 0,
+          "BTTMergeIntoTouchBarGroups" : 0,
+          "BTTTriggerConfig" : {
+            "BTTTouchBarButtonColor" : "75.323769, 75.323769, 75.323769, 255.000000",
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarButtonTextAlignment" : 0,
+            "BTTTouchBarItemPlacement" : 0,
+            "BTTTouchBarButtonFontSize" : 15,
+            "BTTTouchBarScriptUpdateInterval" : 0,
+            "BTTTouchBarAlwaysShowButton" : false,
+            "BTTTBWidgetWidth" : 400,
+            "BTTTouchBarAppleScriptStringRunOnInit" : false,
+            "BTTTouchBarAppleScriptString" : "",
+            "BTTTouchBarButtonWidth" : 100,
+            "BTTTouchBarAppleScriptUsePath" : 0,
+            "BTTTouchBarFreeSpaceAfterButton" : 5,
+            "BTTTouchBarOnlyShowIcon" : false,
+            "BTTTouchBarButtonName" : "Armor",
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemPadding" : 0
+          }
+        },
+        {
+          "BTTWidgetName" : "Health",
+          "BTTTriggerType" : 639,
+          "BTTTriggerTypeDescription" : "Apple Script Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled2" : 1,
+          "BTTUUID" : "1BCB9B61-34D0-408E-AD37-FF0B70ED7F8C",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 0,
+          "BTTDisplayOrder" : 0,
+          "BTTMergeIntoTouchBarGroups" : 0,
+          "BTTTriggerConfig" : {
+            "BTTScriptType" : 0,
+            "BTTTouchBarButtonColor" : "75.323769, 75.323769, 75.323769, 255.000000",
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarButtonTextAlignment" : 0,
+            "BTTTouchBarItemPlacement" : 0,
+            "BTTTouchBarButtonFontSize" : 15,
+            "BTTTouchBarScriptUpdateInterval" : 0,
+            "BTTTouchBarAlwaysShowButton" : false,
+            "BTTTBWidgetWidth" : 400,
+            "BTTTouchBarAppleScriptStringRunOnInit" : false,
+            "BTTTouchBarAppleScriptString" : "",
+            "BTTTouchBarButtonWidth" : 100,
+            "BTTTouchBarOnlyShowIcon" : false,
+            "BTTTouchBarFreeSpaceAfterButton" : 5,
+            "BTTTouchBarAppleScriptUsePath" : 0,
+            "BTTTouchBarButtonName" : "Health",
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemPadding" : 0
+          }
+        },
+        {
+          "BTTWidgetName" : "Ammo",
+          "BTTTriggerType" : 639,
+          "BTTTriggerTypeDescription" : "Apple Script Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled2" : 1,
+          "BTTUUID" : "030D854C-A80B-429C-9072-6EF393635328",
+          "BTTNotesInsteadOfDescription" : 0,
+          "BTTEnabled" : 1,
+          "BTTModifierMode" : 0,
+          "BTTOrder" : 2,
+          "BTTDisplayOrder" : 0,
+          "BTTMergeIntoTouchBarGroups" : 0,
+          "BTTTriggerConfig" : {
+            "BTTTouchBarButtonColor" : "75.323769, 75.323769, 75.323769, 255.000000",
+            "BTTTouchBarItemIconWidth" : 22,
+            "BTTTouchBarButtonTextAlignment" : 0,
+            "BTTTouchBarItemPlacement" : 0,
+            "BTTTouchBarButtonFontSize" : 15,
+            "BTTTouchBarScriptUpdateInterval" : 0,
+            "BTTTouchBarAlwaysShowButton" : false,
+            "BTTTBWidgetWidth" : 400,
+            "BTTTouchBarAppleScriptStringRunOnInit" : false,
+            "BTTTouchBarAppleScriptString" : "",
+            "BTTTouchBarButtonWidth" : 100,
+            "BTTTouchBarAppleScriptUsePath" : 0,
+            "BTTTouchBarFreeSpaceAfterButton" : 5,
+            "BTTTouchBarOnlyShowIcon" : false,
+            "BTTTouchBarButtonName" : "Ammo",
+            "BTTTouchBarItemIconHeight" : 22,
+            "BTTTouchBarItemPadding" : 0
+          }
+        }
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}

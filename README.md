@@ -12,7 +12,7 @@ Touch Bar Counter-Strike: Global Offensive HUD shows health, armor and ammo in y
 2. install [Node.js](https://nodejs.org/en/)
 3. pull this repo contents
 4. install proxy dependencies `cd ./proxy && npm install`
-5. open BetterTouchTool/Configuration/Touch Bar and import `.bttpreset` file
+5. open BetterTouchTool/Configuration/Touch Bar and import `Counter-Strike HUD.bttpreset` file
 6. BetterTouchTool/Settings/BTT Scriptiong set Shared Secret for Scripting to `9iKfnw5xvy0tY0mZdow6fBwkINykYLQw` (or change `shared_secret` in `./proxy/server.js` if you want to use your own)
 7. copy config to Counter-Strike: Global Offensive dir `cp cfg/gamestate_integration_consolesample.cfg /Users/$USER/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/gamestate_integration_consolesample.cfg` to enable date streaming
 
